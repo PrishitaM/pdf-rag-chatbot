@@ -155,12 +155,10 @@ ollama pull llama3
 ## 📸 Screenshots
 
 ### Chat Interface
-
-> Add a screenshot here.
+<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/73c3d47b-f0ec-43d1-bac4-0525c043e55b" />
 
 ### PDF Upload
-
-> Add another screenshot here.
+<img width="317" height="517" alt="image" src="https://github.com/user-attachments/assets/ed1199de-986f-40a6-a476-161a094c7132" />
 
 ---
 
