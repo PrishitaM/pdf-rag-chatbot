@@ -182,7 +182,3 @@ ollama pull llama3
 **Prishita Matreja**
 
 GitHub: https://github.com/PrishitaM
-
----
-
-## ⭐ If you found this project useful, consider giving it a star!
